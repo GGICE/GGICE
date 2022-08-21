@@ -10,4 +10,4 @@
 - [chiyan-packages](https://github.com/GGICE/chiyan-packages)
 - [template-nodejs-server-cli](https://github.com/GGICE/template-nodejs-server-cli)
 
-📮 可以通过[邮件](i@ie.gs)或者[Twitter私信](https://twitter.com/iGGICE)联系到我。
+📮 可以通过[邮件](mailto:i@ice.gs)或者[Twitter私信](https://twitter.com/iGGICE)联系到我。
